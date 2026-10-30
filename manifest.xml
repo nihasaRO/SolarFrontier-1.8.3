@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<iq:manifest
+    xmlns:iq="http://www.garmin.com/xml/connectiq"
+    version="3">
+    <iq:application
+        id="2f4153bb-b3f0-449b-89c4-79a7d1ae985c"
+        type="watchface"
+        name="@Strings.AppName"
+        entry="SolarFrontierApp"
+        launcherIcon="@Drawables.LauncherIcon"
+        minApiLevel="4.2.0">
+        <iq:products>
+            <!-- Garmin uses this one target for both the 45 mm and the 50 mm Instinct 3 Solar -->
+            <iq:product id="instinct3solar45mm" />
+        </iq:products>
+        <iq:permissions>
+            <!-- stress, Body Battery and heart-rate history -->
+            <iq:uses-permission id="SensorHistory" />
+            <!-- heart-rate zones from your Garmin profile, for the heart-rate row -->
+            <iq:uses-permission id="UserProfile" />
+            <!-- last GPS fix, used to calculate sunrise/sunset when the watch doesn't supply them -->
+            <iq:uses-permission id="Positioning" />
+            <!-- Open-Meteo weather: background fetch through the phone -->
+            <iq:uses-permission id="Background" />
+            <iq:uses-permission id="Communications" />
+        </iq:permissions>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+        <iq:barrels />
+    </iq:application>
+</iq:manifest>

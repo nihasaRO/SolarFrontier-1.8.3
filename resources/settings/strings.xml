@@ -1,0 +1,694 @@
+<strings>
+    <string id="st12" scope="settings">Layout &amp; theme: Layout</string>
+    <string id="so12_0" scope="settings">Rows</string>
+    <string id="so12_1" scope="settings">Chart</string>
+    <string id="st5" scope="settings">Layout &amp; theme: Theme</string>
+    <string id="so5_0" scope="settings">Dark</string>
+    <string id="so5_1" scope="settings">Light</string>
+    <string id="st24" scope="settings">Layout &amp; theme: Wrist raise detail</string>
+    <string id="so24_0" scope="settings">Rows+gauges+chart</string>
+    <string id="so24_1" scope="settings">Gauges+chart</string>
+    <string id="so24_2" scope="settings">Rows+chart</string>
+    <string id="so24_3" scope="settings">Chart only</string>
+    <string id="so24_4" scope="settings">Rows+gauges</string>
+    <string id="so24_5" scope="settings">Gauges only</string>
+    <string id="so24_6" scope="settings">Rows only</string>
+    <string id="so24_7" scope="settings">Off</string>
+    <string id="st0" scope="settings">Top rows: Line 1 icon</string>
+    <string id="so0_0" scope="settings">Moon</string>
+    <string id="so0_1" scope="settings">Phone</string>
+    <string id="so0_2" scope="settings">Notifications</string>
+    <string id="so0_3" scope="settings">None</string>
+    <string id="so0_4" scope="settings">Alarm</string>
+    <string id="so0_5" scope="settings">Do Not Disturb</string>
+    <string id="so0_6" scope="settings">Bluetooth</string>
+    <string id="so0_7" scope="settings">Pressure drop</string>
+    <string id="st19" scope="settings">Top rows: Line 1 text</string>
+    <string id="so19_0" scope="settings">Date</string>
+    <string id="so19_6" scope="settings">Steps</string>
+    <string id="so19_15" scope="settings">Steps to goal</string>
+    <string id="so19_13" scope="settings">Breaths/minute</string>
+    <string id="so19_17" scope="settings">BB change last 2h</string>
+    <string id="so19_4" scope="settings">Temp high/low</string>
+    <string id="so19_7" scope="settings">Feels like temp</string>
+    <string id="so19_8" scope="settings">Dew point temp</string>
+    <string id="so19_14" scope="settings">UV index</string>
+    <string id="so19_3" scope="settings">Pressure hPa+trend</string>
+    <string id="so19_9" scope="settings">Solar noon</string>
+    <string id="so19_18" scope="settings">Sun elevation</string>
+    <string id="so19_12" scope="settings">Days to full moon</string>
+    <string id="so19_1" scope="settings">2nd time zone</string>
+    <string id="so19_11" scope="settings">BMNT/EENT</string>
+    <string id="so19_10" scope="settings">First/last light</string>
+    <string id="so19_5" scope="settings">Altitude m/ft</string>
+    <string id="so19_16" scope="settings">Watch sensor temp</string>
+    <string id="so19_2" scope="settings">Off</string>
+    <string id="st1" scope="settings">Top rows: Date format</string>
+    <string id="so1_0" scope="settings">TUE 06</string>
+    <string id="so1_1" scope="settings">06 OCT</string>
+    <string id="so1_2" scope="settings">OCT 06</string>
+    <string id="so1_3" scope="settings">06.10</string>
+    <string id="so1_4" scope="settings">Week number</string>
+    <string id="so1_5" scope="settings">Day of year</string>
+    <string id="so1_6" scope="settings">10/06</string>
+    <string id="st20" scope="settings">Top rows: Line 2 number</string>
+    <string id="so20_5" scope="settings">Heart rate bpm</string>
+    <string id="so20_6" scope="settings">Resting HR bpm</string>
+    <string id="so20_2" scope="settings">Body Battery</string>
+    <string id="so20_3" scope="settings">Stress</string>
+    <string id="so20_0" scope="settings">Battery %</string>
+    <string id="so20_1" scope="settings">Battery days left</string>
+    <string id="so20_4" scope="settings">Notifications</string>
+    <string id="so20_7" scope="settings">Off</string>
+    <string id="st21" scope="settings">Top rows: Line 2 bar</string>
+    <string id="so21_4" scope="settings">Steps vs goal</string>
+    <string id="so21_13" scope="settings">Intensity min/day</string>
+    <string id="so21_5" scope="settings">Intensity min/week</string>
+    <string id="so21_6" scope="settings">Heart rate zone</string>
+    <string id="so21_2" scope="settings">Body Battery</string>
+    <string id="so21_3" scope="settings">Stress</string>
+    <string id="so21_8" scope="settings">Humidity %</string>
+    <string id="so21_9" scope="settings">Rain chance %</string>
+    <string id="so21_10" scope="settings">Cloud cover %</string>
+    <string id="so21_12" scope="settings">UV index</string>
+    <string id="so21_14" scope="settings">Air quality EU</string>
+    <string id="so21_0" scope="settings">Solar intensity</string>
+    <string id="so21_11" scope="settings">Moon lit %</string>
+    <string id="so21_1" scope="settings">Battery %</string>
+    <string id="so21_7" scope="settings">Off</string>
+    <string id="st22" scope="settings">Top rows: Line 3</string>
+    <string id="so22_6" scope="settings">Steps</string>
+    <string id="so22_26" scope="settings">Steps to goal</string>
+    <string id="so22_21" scope="settings">Breaths/minute</string>
+    <string id="so22_33" scope="settings">BB change last 2h</string>
+    <string id="so22_47" scope="settings">Context</string>
+    <string id="so22_4" scope="settings">Temp high/low</string>
+    <string id="so22_10" scope="settings">Feels like temp</string>
+    <string id="so22_42" scope="settings">Feels + wind</string>
+    <string id="so22_11" scope="settings">Dew point temp</string>
+    <string id="so22_9" scope="settings">Humidity %</string>
+    <string id="so22_8" scope="settings">Rain chance %</string>
+    <string id="so22_31" scope="settings">Rain / dry change</string>
+    <string id="so22_36" scope="settings">Rain today mm/in</string>
+    <string id="so22_40" scope="settings">Snow 24h cm/in</string>
+    <string id="so22_7" scope="settings">Wind km/h or mph</string>
+    <string id="so22_45" scope="settings">Wind knots</string>
+    <string id="so22_46" scope="settings">Wind force (Bft)</string>
+    <string id="so22_22" scope="settings">Gusts km/h or mph</string>
+    <string id="so22_23" scope="settings">Cloud cover %</string>
+    <string id="so22_25" scope="settings">UV index</string>
+    <string id="so22_35" scope="settings">UV max today</string>
+    <string id="so22_32" scope="settings">Air quality EU</string>
+    <string id="so22_38" scope="settings">Pollen (Europe)</string>
+    <string id="so22_37" scope="settings">T-storm potential</string>
+    <string id="so22_39" scope="settings">Freezing lvl m/ft</string>
+    <string id="so22_41" scope="settings">Freezing margin</string>
+    <string id="so22_3" scope="settings">Pressure hPa+trend</string>
+    <string id="so22_44" scope="settings">Pressure inHg+trend</string>
+    <string id="so22_28" scope="settings">Pressure change 3h</string>
+    <string id="so22_0" scope="settings">Next sunrise/set</string>
+    <string id="so22_1" scope="settings">Sunrise &amp; sunset</string>
+    <string id="so22_12" scope="settings">Day length</string>
+    <string id="so22_13" scope="settings">Solar noon</string>
+    <string id="so22_14" scope="settings">Golden hour</string>
+    <string id="so22_34" scope="settings">Sun elevation</string>
+    <string id="so22_17" scope="settings">Moon lit %</string>
+    <string id="so22_18" scope="settings">Days to full moon</string>
+    <string id="so22_29" scope="settings">Days to new moon</string>
+    <string id="so22_30" scope="settings">Solstice/equinox</string>
+    <string id="so22_2" scope="settings">2nd time zone</string>
+    <string id="so22_43" scope="settings">Seconds</string>
+    <string id="so22_16" scope="settings">BMNT/EENT</string>
+    <string id="so22_15" scope="settings">First/last light</string>
+    <string id="so22_19" scope="settings">Lat/lon position</string>
+    <string id="so22_5" scope="settings">Altitude m/ft</string>
+    <string id="so22_20" scope="settings">Countdown</string>
+    <string id="so22_27" scope="settings">Watch sensor temp</string>
+    <string id="so22_24" scope="settings">Off</string>
+    <string id="st7" scope="settings">Circle: Circle shows</string>
+    <string id="so7_6" scope="settings">Heart rate bpm</string>
+    <string id="so7_7" scope="settings">Body Battery</string>
+    <string id="so7_0" scope="settings">Weather now</string>
+    <string id="so7_1" scope="settings">Temp high/low</string>
+    <string id="so7_2" scope="settings">Next 3 hours</string>
+    <string id="so7_3" scope="settings">Tomorrow</string>
+    <string id="so7_4" scope="settings">Rain chance %</string>
+    <string id="so7_5" scope="settings">Wind km/h or mph</string>
+    <string id="so7_12" scope="settings">Pressure hPa+trend</string>
+    <string id="so7_9" scope="settings">Next sunrise/set</string>
+    <string id="so7_10" scope="settings">Moon</string>
+    <string id="so7_8" scope="settings">2nd time zone</string>
+    <string id="so7_11" scope="settings">Altitude m/ft</string>
+    <string id="so7_14" scope="settings">Battery days left</string>
+    <string id="so7_13" scope="settings">Notifications</string>
+    <string id="so7_15" scope="settings">Off</string>
+    <string id="so7_16" scope="settings">Seconds (wrist raise)</string>
+    <string id="st8" scope="settings">Circle: 2nd time zone</string>
+    <string id="so8_0" scope="settings">UTC-12</string>
+    <string id="so8_1" scope="settings">UTC-11</string>
+    <string id="so8_2" scope="settings">UTC-10</string>
+    <string id="so8_3" scope="settings">UTC-9</string>
+    <string id="so8_4" scope="settings">UTC-8</string>
+    <string id="so8_5" scope="settings">UTC-7</string>
+    <string id="so8_6" scope="settings">UTC-6</string>
+    <string id="so8_7" scope="settings">UTC-5</string>
+    <string id="so8_8" scope="settings">UTC-4</string>
+    <string id="so8_9" scope="settings">UTC-3</string>
+    <string id="so8_10" scope="settings">UTC-2</string>
+    <string id="so8_11" scope="settings">UTC-1</string>
+    <string id="so8_12" scope="settings">UTC</string>
+    <string id="so8_13" scope="settings">UTC+1</string>
+    <string id="so8_14" scope="settings">UTC+2</string>
+    <string id="so8_15" scope="settings">UTC+3</string>
+    <string id="so8_16" scope="settings">UTC+4</string>
+    <string id="so8_17" scope="settings">UTC+5</string>
+    <string id="so8_18" scope="settings">UTC+6</string>
+    <string id="so8_19" scope="settings">UTC+7</string>
+    <string id="so8_20" scope="settings">UTC+8</string>
+    <string id="so8_21" scope="settings">UTC+9</string>
+    <string id="so8_22" scope="settings">UTC+10</string>
+    <string id="so8_23" scope="settings">UTC+11</string>
+    <string id="so8_24" scope="settings">UTC+12</string>
+    <string id="so8_25" scope="settings">UTC+13</string>
+    <string id="so8_26" scope="settings">UTC+14</string>
+    <string id="so8_27" scope="settings">Zulu (UTC)</string>
+    <string id="st23" scope="settings">Time: Time format</string>
+    <string id="so23_0" scope="settings">Watch setting</string>
+    <string id="so23_1" scope="settings">24 hours</string>
+    <string id="so23_2" scope="settings">12 hours</string>
+    <string id="st11" scope="settings">Time: Colon style</string>
+    <string id="so11_0" scope="settings">No colon</string>
+    <string id="so11_1" scope="settings">Circles</string>
+    <string id="so11_2" scope="settings">Squares</string>
+    <string id="so11_3" scope="settings">Diamonds</string>
+    <string id="st6" scope="settings">Time: Minutes style</string>
+    <string id="so6_0" scope="settings">Dithered (auto)</string>
+    <string id="so6_1" scope="settings">Solid</string>
+    <string id="so6_2" scope="settings">Outlined</string>
+    <string id="so6_3" scope="settings">Dithered always</string>
+    <string id="st26" scope="settings">Time: Countdown day</string>
+    <string id="so26_0" scope="settings">1</string>
+    <string id="so26_1" scope="settings">2</string>
+    <string id="so26_2" scope="settings">3</string>
+    <string id="so26_3" scope="settings">4</string>
+    <string id="so26_4" scope="settings">5</string>
+    <string id="so26_5" scope="settings">6</string>
+    <string id="so26_6" scope="settings">7</string>
+    <string id="so26_7" scope="settings">8</string>
+    <string id="so26_8" scope="settings">9</string>
+    <string id="so26_9" scope="settings">10</string>
+    <string id="so26_10" scope="settings">11</string>
+    <string id="so26_11" scope="settings">12</string>
+    <string id="so26_12" scope="settings">13</string>
+    <string id="so26_13" scope="settings">14</string>
+    <string id="so26_14" scope="settings">15</string>
+    <string id="so26_15" scope="settings">16</string>
+    <string id="so26_16" scope="settings">17</string>
+    <string id="so26_17" scope="settings">18</string>
+    <string id="so26_18" scope="settings">19</string>
+    <string id="so26_19" scope="settings">20</string>
+    <string id="so26_20" scope="settings">21</string>
+    <string id="so26_21" scope="settings">22</string>
+    <string id="so26_22" scope="settings">23</string>
+    <string id="so26_23" scope="settings">24</string>
+    <string id="so26_24" scope="settings">25</string>
+    <string id="so26_25" scope="settings">26</string>
+    <string id="so26_26" scope="settings">27</string>
+    <string id="so26_27" scope="settings">28</string>
+    <string id="so26_28" scope="settings">29</string>
+    <string id="so26_29" scope="settings">30</string>
+    <string id="so26_30" scope="settings">31</string>
+    <string id="st27" scope="settings">Time: Countdown month</string>
+    <string id="so27_0" scope="settings">JAN</string>
+    <string id="so27_1" scope="settings">FEB</string>
+    <string id="so27_2" scope="settings">MAR</string>
+    <string id="so27_3" scope="settings">APR</string>
+    <string id="so27_4" scope="settings">MAY</string>
+    <string id="so27_5" scope="settings">JUN</string>
+    <string id="so27_6" scope="settings">JUL</string>
+    <string id="so27_7" scope="settings">AUG</string>
+    <string id="so27_8" scope="settings">SEP</string>
+    <string id="so27_9" scope="settings">OCT</string>
+    <string id="so27_10" scope="settings">NOV</string>
+    <string id="so27_11" scope="settings">DEC</string>
+    <string id="st28" scope="settings">Time: Countdown year</string>
+    <string id="so28_0" scope="settings">2026</string>
+    <string id="so28_1" scope="settings">2027</string>
+    <string id="so28_2" scope="settings">2028</string>
+    <string id="so28_3" scope="settings">2029</string>
+    <string id="so28_4" scope="settings">2030</string>
+    <string id="so28_5" scope="settings">2031</string>
+    <string id="so28_6" scope="settings">2032</string>
+    <string id="so28_7" scope="settings">2033</string>
+    <string id="so28_8" scope="settings">2034</string>
+    <string id="so28_9" scope="settings">2035</string>
+    <string id="so28_10" scope="settings">2036</string>
+    <string id="so28_11" scope="settings">2037</string>
+    <string id="so28_12" scope="settings">2038</string>
+    <string id="so28_13" scope="settings">2039</string>
+    <string id="so28_14" scope="settings">2040</string>
+    <string id="so28_15" scope="settings">2041</string>
+    <string id="so28_16" scope="settings">2042</string>
+    <string id="so28_17" scope="settings">2043</string>
+    <string id="so28_18" scope="settings">2044</string>
+    <string id="so28_19" scope="settings">2045</string>
+    <string id="so28_20" scope="settings">Every day</string>
+    <string id="st29" scope="settings">Time: Countdown time</string>
+    <string id="so29_0" scope="settings">00:00</string>
+    <string id="so29_1" scope="settings">00:15</string>
+    <string id="so29_2" scope="settings">00:30</string>
+    <string id="so29_3" scope="settings">00:45</string>
+    <string id="so29_4" scope="settings">01:00</string>
+    <string id="so29_5" scope="settings">01:15</string>
+    <string id="so29_6" scope="settings">01:30</string>
+    <string id="so29_7" scope="settings">01:45</string>
+    <string id="so29_8" scope="settings">02:00</string>
+    <string id="so29_9" scope="settings">02:15</string>
+    <string id="so29_10" scope="settings">02:30</string>
+    <string id="so29_11" scope="settings">02:45</string>
+    <string id="so29_12" scope="settings">03:00</string>
+    <string id="so29_13" scope="settings">03:15</string>
+    <string id="so29_14" scope="settings">03:30</string>
+    <string id="so29_15" scope="settings">03:45</string>
+    <string id="so29_16" scope="settings">04:00</string>
+    <string id="so29_17" scope="settings">04:15</string>
+    <string id="so29_18" scope="settings">04:30</string>
+    <string id="so29_19" scope="settings">04:45</string>
+    <string id="so29_20" scope="settings">05:00</string>
+    <string id="so29_21" scope="settings">05:15</string>
+    <string id="so29_22" scope="settings">05:30</string>
+    <string id="so29_23" scope="settings">05:45</string>
+    <string id="so29_24" scope="settings">06:00</string>
+    <string id="so29_25" scope="settings">06:15</string>
+    <string id="so29_26" scope="settings">06:30</string>
+    <string id="so29_27" scope="settings">06:45</string>
+    <string id="so29_28" scope="settings">07:00</string>
+    <string id="so29_29" scope="settings">07:15</string>
+    <string id="so29_30" scope="settings">07:30</string>
+    <string id="so29_31" scope="settings">07:45</string>
+    <string id="so29_32" scope="settings">08:00</string>
+    <string id="so29_33" scope="settings">08:15</string>
+    <string id="so29_34" scope="settings">08:30</string>
+    <string id="so29_35" scope="settings">08:45</string>
+    <string id="so29_36" scope="settings">09:00</string>
+    <string id="so29_37" scope="settings">09:15</string>
+    <string id="so29_38" scope="settings">09:30</string>
+    <string id="so29_39" scope="settings">09:45</string>
+    <string id="so29_40" scope="settings">10:00</string>
+    <string id="so29_41" scope="settings">10:15</string>
+    <string id="so29_42" scope="settings">10:30</string>
+    <string id="so29_43" scope="settings">10:45</string>
+    <string id="so29_44" scope="settings">11:00</string>
+    <string id="so29_45" scope="settings">11:15</string>
+    <string id="so29_46" scope="settings">11:30</string>
+    <string id="so29_47" scope="settings">11:45</string>
+    <string id="so29_48" scope="settings">12:00</string>
+    <string id="so29_49" scope="settings">12:15</string>
+    <string id="so29_50" scope="settings">12:30</string>
+    <string id="so29_51" scope="settings">12:45</string>
+    <string id="so29_52" scope="settings">13:00</string>
+    <string id="so29_53" scope="settings">13:15</string>
+    <string id="so29_54" scope="settings">13:30</string>
+    <string id="so29_55" scope="settings">13:45</string>
+    <string id="so29_56" scope="settings">14:00</string>
+    <string id="so29_57" scope="settings">14:15</string>
+    <string id="so29_58" scope="settings">14:30</string>
+    <string id="so29_59" scope="settings">14:45</string>
+    <string id="so29_60" scope="settings">15:00</string>
+    <string id="so29_61" scope="settings">15:15</string>
+    <string id="so29_62" scope="settings">15:30</string>
+    <string id="so29_63" scope="settings">15:45</string>
+    <string id="so29_64" scope="settings">16:00</string>
+    <string id="so29_65" scope="settings">16:15</string>
+    <string id="so29_66" scope="settings">16:30</string>
+    <string id="so29_67" scope="settings">16:45</string>
+    <string id="so29_68" scope="settings">17:00</string>
+    <string id="so29_69" scope="settings">17:15</string>
+    <string id="so29_70" scope="settings">17:30</string>
+    <string id="so29_71" scope="settings">17:45</string>
+    <string id="so29_72" scope="settings">18:00</string>
+    <string id="so29_73" scope="settings">18:15</string>
+    <string id="so29_74" scope="settings">18:30</string>
+    <string id="so29_75" scope="settings">18:45</string>
+    <string id="so29_76" scope="settings">19:00</string>
+    <string id="so29_77" scope="settings">19:15</string>
+    <string id="so29_78" scope="settings">19:30</string>
+    <string id="so29_79" scope="settings">19:45</string>
+    <string id="so29_80" scope="settings">20:00</string>
+    <string id="so29_81" scope="settings">20:15</string>
+    <string id="so29_82" scope="settings">20:30</string>
+    <string id="so29_83" scope="settings">20:45</string>
+    <string id="so29_84" scope="settings">21:00</string>
+    <string id="so29_85" scope="settings">21:15</string>
+    <string id="so29_86" scope="settings">21:30</string>
+    <string id="so29_87" scope="settings">21:45</string>
+    <string id="so29_88" scope="settings">22:00</string>
+    <string id="so29_89" scope="settings">22:15</string>
+    <string id="so29_90" scope="settings">22:30</string>
+    <string id="so29_91" scope="settings">22:45</string>
+    <string id="so29_92" scope="settings">23:00</string>
+    <string id="so29_93" scope="settings">23:15</string>
+    <string id="so29_94" scope="settings">23:30</string>
+    <string id="so29_95" scope="settings">23:45</string>
+    <string id="st13" scope="settings">Side gauges: Left gauge</string>
+    <string id="so13_4" scope="settings">Steps vs goal</string>
+    <string id="so13_6" scope="settings">Floors vs goal</string>
+    <string id="so13_15" scope="settings">Intensity min/day</string>
+    <string id="so13_5" scope="settings">Intensity min/week</string>
+    <string id="so13_7" scope="settings">Move alert level</string>
+    <string id="so13_1" scope="settings">Body Battery</string>
+    <string id="so13_0" scope="settings">Stress</string>
+    <string id="so13_10" scope="settings">Humidity %</string>
+    <string id="so13_11" scope="settings">Rain chance %</string>
+    <string id="so13_12" scope="settings">Cloud cover %</string>
+    <string id="so13_14" scope="settings">UV index</string>
+    <string id="so13_16" scope="settings">Air quality EU</string>
+    <string id="so13_8" scope="settings">Daylight left</string>
+    <string id="so13_3" scope="settings">Solar intensity</string>
+    <string id="so13_13" scope="settings">Moon lit %</string>
+    <string id="so13_2" scope="settings">Battery %</string>
+    <string id="so13_9" scope="settings">Off</string>
+    <string id="st14" scope="settings">Side gauges: Right gauge</string>
+    <string id="so14_4" scope="settings">Steps vs goal</string>
+    <string id="so14_6" scope="settings">Floors vs goal</string>
+    <string id="so14_15" scope="settings">Intensity min/day</string>
+    <string id="so14_5" scope="settings">Intensity min/week</string>
+    <string id="so14_7" scope="settings">Move alert level</string>
+    <string id="so14_1" scope="settings">Body Battery</string>
+    <string id="so14_0" scope="settings">Stress</string>
+    <string id="so14_10" scope="settings">Humidity %</string>
+    <string id="so14_11" scope="settings">Rain chance %</string>
+    <string id="so14_12" scope="settings">Cloud cover %</string>
+    <string id="so14_14" scope="settings">UV index</string>
+    <string id="so14_16" scope="settings">Air quality EU</string>
+    <string id="so14_8" scope="settings">Daylight left</string>
+    <string id="so14_3" scope="settings">Solar intensity</string>
+    <string id="so14_13" scope="settings">Moon lit %</string>
+    <string id="so14_2" scope="settings">Battery %</string>
+    <string id="so14_9" scope="settings">Off</string>
+    <string id="st25" scope="settings">Side gauges: Gauge look</string>
+    <string id="so25_0" scope="settings">Bar</string>
+    <string id="so25_1" scope="settings">Blocks</string>
+    <string id="st2" scope="settings">Rows layout: Row 1</string>
+    <string id="so2_0" scope="settings">Steps vs goal</string>
+    <string id="so2_5" scope="settings">Floors vs goal</string>
+    <string id="so2_16" scope="settings">Intensity min/day</string>
+    <string id="so2_1" scope="settings">Intensity min/week</string>
+    <string id="so2_8" scope="settings">Move alert level</string>
+    <string id="so2_2" scope="settings">Heart rate zone</string>
+    <string id="so2_3" scope="settings">Body Battery</string>
+    <string id="so2_4" scope="settings">Stress</string>
+    <string id="so2_11" scope="settings">Humidity %</string>
+    <string id="so2_12" scope="settings">Rain chance %</string>
+    <string id="so2_13" scope="settings">Cloud cover %</string>
+    <string id="so2_15" scope="settings">UV index</string>
+    <string id="so2_17" scope="settings">Air quality EU</string>
+    <string id="so2_9" scope="settings">Daylight left</string>
+    <string id="so2_7" scope="settings">Solar intensity</string>
+    <string id="so2_14" scope="settings">Moon lit %</string>
+    <string id="so2_6" scope="settings">Battery %</string>
+    <string id="so2_10" scope="settings">Off</string>
+    <string id="st3" scope="settings">Rows layout: Row 2</string>
+    <string id="so3_0" scope="settings">Steps vs goal</string>
+    <string id="so3_5" scope="settings">Floors vs goal</string>
+    <string id="so3_16" scope="settings">Intensity min/day</string>
+    <string id="so3_1" scope="settings">Intensity min/week</string>
+    <string id="so3_8" scope="settings">Move alert level</string>
+    <string id="so3_2" scope="settings">Heart rate zone</string>
+    <string id="so3_3" scope="settings">Body Battery</string>
+    <string id="so3_4" scope="settings">Stress</string>
+    <string id="so3_11" scope="settings">Humidity %</string>
+    <string id="so3_12" scope="settings">Rain chance %</string>
+    <string id="so3_13" scope="settings">Cloud cover %</string>
+    <string id="so3_15" scope="settings">UV index</string>
+    <string id="so3_17" scope="settings">Air quality EU</string>
+    <string id="so3_9" scope="settings">Daylight left</string>
+    <string id="so3_7" scope="settings">Solar intensity</string>
+    <string id="so3_14" scope="settings">Moon lit %</string>
+    <string id="so3_6" scope="settings">Battery %</string>
+    <string id="so3_10" scope="settings">Off</string>
+    <string id="st4" scope="settings">Rows layout: Row 3</string>
+    <string id="so4_0" scope="settings">Steps vs goal</string>
+    <string id="so4_5" scope="settings">Floors vs goal</string>
+    <string id="so4_16" scope="settings">Intensity min/day</string>
+    <string id="so4_1" scope="settings">Intensity min/week</string>
+    <string id="so4_8" scope="settings">Move alert level</string>
+    <string id="so4_2" scope="settings">Heart rate zone</string>
+    <string id="so4_3" scope="settings">Body Battery</string>
+    <string id="so4_4" scope="settings">Stress</string>
+    <string id="so4_11" scope="settings">Humidity %</string>
+    <string id="so4_12" scope="settings">Rain chance %</string>
+    <string id="so4_13" scope="settings">Cloud cover %</string>
+    <string id="so4_15" scope="settings">UV index</string>
+    <string id="so4_17" scope="settings">Air quality EU</string>
+    <string id="so4_9" scope="settings">Daylight left</string>
+    <string id="so4_7" scope="settings">Solar intensity</string>
+    <string id="so4_14" scope="settings">Moon lit %</string>
+    <string id="so4_6" scope="settings">Battery %</string>
+    <string id="so4_10" scope="settings">Off</string>
+    <string id="st15" scope="settings">Chart layout: Column 1</string>
+    <string id="so15_0" scope="settings">Steps</string>
+    <string id="so15_32" scope="settings">Steps to goal</string>
+    <string id="so15_4" scope="settings">Distance km/mi</string>
+    <string id="so15_3" scope="settings">Calories kcal</string>
+    <string id="so15_5" scope="settings">Floors up</string>
+    <string id="so15_23" scope="settings">Floors down</string>
+    <string id="so15_22" scope="settings">Climbed m/ft today</string>
+    <string id="so15_47" scope="settings">Descended m/ft today</string>
+    <string id="so15_1" scope="settings">Intensity min/day</string>
+    <string id="so15_2" scope="settings">Intensity min/week</string>
+    <string id="so15_12" scope="settings">Heart rate bpm</string>
+    <string id="so15_20" scope="settings">Resting HR bpm</string>
+    <string id="so15_21" scope="settings">Breaths/minute</string>
+    <string id="so15_13" scope="settings">Pulse Ox %</string>
+    <string id="so15_10" scope="settings">Body Battery</string>
+    <string id="so15_39" scope="settings">BB change last 2h</string>
+    <string id="so15_11" scope="settings">Stress</string>
+    <string id="so15_19" scope="settings">Temp high/low</string>
+    <string id="so15_17" scope="settings">Feels like temp</string>
+    <string id="so15_18" scope="settings">Dew point temp</string>
+    <string id="so15_16" scope="settings">Humidity %</string>
+    <string id="so15_15" scope="settings">Rain chance %</string>
+    <string id="so15_37" scope="settings">Rain / dry change</string>
+    <string id="so15_28" scope="settings">Rain last 1h mm/in</string>
+    <string id="so15_42" scope="settings">Rain today mm/in</string>
+    <string id="so15_46" scope="settings">Snow 24h cm/in</string>
+    <string id="so15_14" scope="settings">Wind km/h or mph</string>
+    <string id="so15_48" scope="settings">Wind force (Bft)</string>
+    <string id="so15_25" scope="settings">Gusts km/h or mph</string>
+    <string id="so15_26" scope="settings">Cloud cover %</string>
+    <string id="so15_27" scope="settings">Visibility km/mi</string>
+    <string id="so15_30" scope="settings">UV index</string>
+    <string id="so15_41" scope="settings">UV max today</string>
+    <string id="so15_38" scope="settings">Air quality EU</string>
+    <string id="so15_44" scope="settings">Pollen (Europe)</string>
+    <string id="so15_43" scope="settings">T-storm potential</string>
+    <string id="so15_45" scope="settings">Freezing lvl m/ft</string>
+    <string id="so15_7" scope="settings">Pressure hPa</string>
+    <string id="so15_34" scope="settings">Pressure change 3h</string>
+    <string id="so15_40" scope="settings">Sun elevation</string>
+    <string id="so15_31" scope="settings">Moon lit %</string>
+    <string id="so15_35" scope="settings">Days to new moon</string>
+    <string id="so15_36" scope="settings">Solstice/equinox</string>
+    <string id="so15_6" scope="settings">Altitude m/ft</string>
+    <string id="so15_24" scope="settings">Countdown</string>
+    <string id="so15_9" scope="settings">Battery days left</string>
+    <string id="so15_33" scope="settings">Watch sensor temp</string>
+    <string id="so15_8" scope="settings">Notifications</string>
+    <string id="so15_29" scope="settings">Off</string>
+    <string id="st16" scope="settings">Chart layout: Column 2</string>
+    <string id="so16_0" scope="settings">Steps</string>
+    <string id="so16_32" scope="settings">Steps to goal</string>
+    <string id="so16_4" scope="settings">Distance km/mi</string>
+    <string id="so16_3" scope="settings">Calories kcal</string>
+    <string id="so16_5" scope="settings">Floors up</string>
+    <string id="so16_23" scope="settings">Floors down</string>
+    <string id="so16_22" scope="settings">Climbed m/ft today</string>
+    <string id="so16_47" scope="settings">Descended m/ft today</string>
+    <string id="so16_1" scope="settings">Intensity min/day</string>
+    <string id="so16_2" scope="settings">Intensity min/week</string>
+    <string id="so16_12" scope="settings">Heart rate bpm</string>
+    <string id="so16_20" scope="settings">Resting HR bpm</string>
+    <string id="so16_21" scope="settings">Breaths/minute</string>
+    <string id="so16_13" scope="settings">Pulse Ox %</string>
+    <string id="so16_10" scope="settings">Body Battery</string>
+    <string id="so16_39" scope="settings">BB change last 2h</string>
+    <string id="so16_11" scope="settings">Stress</string>
+    <string id="so16_19" scope="settings">Temp high/low</string>
+    <string id="so16_17" scope="settings">Feels like temp</string>
+    <string id="so16_18" scope="settings">Dew point temp</string>
+    <string id="so16_16" scope="settings">Humidity %</string>
+    <string id="so16_15" scope="settings">Rain chance %</string>
+    <string id="so16_37" scope="settings">Rain / dry change</string>
+    <string id="so16_28" scope="settings">Rain last 1h mm/in</string>
+    <string id="so16_42" scope="settings">Rain today mm/in</string>
+    <string id="so16_46" scope="settings">Snow 24h cm/in</string>
+    <string id="so16_14" scope="settings">Wind km/h or mph</string>
+    <string id="so16_48" scope="settings">Wind force (Bft)</string>
+    <string id="so16_25" scope="settings">Gusts km/h or mph</string>
+    <string id="so16_26" scope="settings">Cloud cover %</string>
+    <string id="so16_27" scope="settings">Visibility km/mi</string>
+    <string id="so16_30" scope="settings">UV index</string>
+    <string id="so16_41" scope="settings">UV max today</string>
+    <string id="so16_38" scope="settings">Air quality EU</string>
+    <string id="so16_44" scope="settings">Pollen (Europe)</string>
+    <string id="so16_43" scope="settings">T-storm potential</string>
+    <string id="so16_45" scope="settings">Freezing lvl m/ft</string>
+    <string id="so16_7" scope="settings">Pressure hPa</string>
+    <string id="so16_34" scope="settings">Pressure change 3h</string>
+    <string id="so16_40" scope="settings">Sun elevation</string>
+    <string id="so16_31" scope="settings">Moon lit %</string>
+    <string id="so16_35" scope="settings">Days to new moon</string>
+    <string id="so16_36" scope="settings">Solstice/equinox</string>
+    <string id="so16_6" scope="settings">Altitude m/ft</string>
+    <string id="so16_24" scope="settings">Countdown</string>
+    <string id="so16_9" scope="settings">Battery days left</string>
+    <string id="so16_33" scope="settings">Watch sensor temp</string>
+    <string id="so16_8" scope="settings">Notifications</string>
+    <string id="so16_29" scope="settings">Off</string>
+    <string id="st17" scope="settings">Chart layout: Column 3</string>
+    <string id="so17_0" scope="settings">Steps</string>
+    <string id="so17_32" scope="settings">Steps to goal</string>
+    <string id="so17_4" scope="settings">Distance km/mi</string>
+    <string id="so17_3" scope="settings">Calories kcal</string>
+    <string id="so17_5" scope="settings">Floors up</string>
+    <string id="so17_23" scope="settings">Floors down</string>
+    <string id="so17_22" scope="settings">Climbed m/ft today</string>
+    <string id="so17_47" scope="settings">Descended m/ft today</string>
+    <string id="so17_1" scope="settings">Intensity min/day</string>
+    <string id="so17_2" scope="settings">Intensity min/week</string>
+    <string id="so17_12" scope="settings">Heart rate bpm</string>
+    <string id="so17_20" scope="settings">Resting HR bpm</string>
+    <string id="so17_21" scope="settings">Breaths/minute</string>
+    <string id="so17_13" scope="settings">Pulse Ox %</string>
+    <string id="so17_10" scope="settings">Body Battery</string>
+    <string id="so17_39" scope="settings">BB change last 2h</string>
+    <string id="so17_11" scope="settings">Stress</string>
+    <string id="so17_19" scope="settings">Temp high/low</string>
+    <string id="so17_17" scope="settings">Feels like temp</string>
+    <string id="so17_18" scope="settings">Dew point temp</string>
+    <string id="so17_16" scope="settings">Humidity %</string>
+    <string id="so17_15" scope="settings">Rain chance %</string>
+    <string id="so17_37" scope="settings">Rain / dry change</string>
+    <string id="so17_28" scope="settings">Rain last 1h mm/in</string>
+    <string id="so17_42" scope="settings">Rain today mm/in</string>
+    <string id="so17_46" scope="settings">Snow 24h cm/in</string>
+    <string id="so17_14" scope="settings">Wind km/h or mph</string>
+    <string id="so17_48" scope="settings">Wind force (Bft)</string>
+    <string id="so17_25" scope="settings">Gusts km/h or mph</string>
+    <string id="so17_26" scope="settings">Cloud cover %</string>
+    <string id="so17_27" scope="settings">Visibility km/mi</string>
+    <string id="so17_30" scope="settings">UV index</string>
+    <string id="so17_41" scope="settings">UV max today</string>
+    <string id="so17_38" scope="settings">Air quality EU</string>
+    <string id="so17_44" scope="settings">Pollen (Europe)</string>
+    <string id="so17_43" scope="settings">T-storm potential</string>
+    <string id="so17_45" scope="settings">Freezing lvl m/ft</string>
+    <string id="so17_7" scope="settings">Pressure hPa</string>
+    <string id="so17_34" scope="settings">Pressure change 3h</string>
+    <string id="so17_40" scope="settings">Sun elevation</string>
+    <string id="so17_31" scope="settings">Moon lit %</string>
+    <string id="so17_35" scope="settings">Days to new moon</string>
+    <string id="so17_36" scope="settings">Solstice/equinox</string>
+    <string id="so17_6" scope="settings">Altitude m/ft</string>
+    <string id="so17_24" scope="settings">Countdown</string>
+    <string id="so17_9" scope="settings">Battery days left</string>
+    <string id="so17_33" scope="settings">Watch sensor temp</string>
+    <string id="so17_8" scope="settings">Notifications</string>
+    <string id="so17_29" scope="settings">Off</string>
+    <string id="st18" scope="settings">Chart layout: Chart shows</string>
+    <string id="so18_0" scope="settings">Heart rate, 1 h</string>
+    <string id="so18_1" scope="settings">Heart rate, 3 h</string>
+    <string id="so18_2" scope="settings">Heart rate, 4 h</string>
+    <string id="so18_3" scope="settings">Stress, 1 h</string>
+    <string id="so18_4" scope="settings">Stress, 3 h</string>
+    <string id="so18_5" scope="settings">Stress, 4 h</string>
+    <string id="so18_6" scope="settings">Body Battery, 1 h</string>
+    <string id="so18_7" scope="settings">Body Battery, 3 h</string>
+    <string id="so18_8" scope="settings">Body Battery, 4 h</string>
+    <string id="so18_9" scope="settings">Pressure, 1 h</string>
+    <string id="so18_10" scope="settings">Pressure, 3 h</string>
+    <string id="so18_11" scope="settings">Pressure, 4 h</string>
+    <string id="so18_12" scope="settings">Altitude, 1 h</string>
+    <string id="so18_13" scope="settings">Altitude, 3 h</string>
+    <string id="so18_14" scope="settings">Altitude, 4 h</string>
+    <string id="so18_15" scope="settings">Watch temp, 1 h</string>
+    <string id="so18_16" scope="settings">Watch temp, 3 h</string>
+    <string id="so18_17" scope="settings">Watch temp, 4 h</string>
+    <string id="so18_18" scope="settings">Pulse Ox, 1 h</string>
+    <string id="so18_19" scope="settings">Pulse Ox, 3 h</string>
+    <string id="so18_20" scope="settings">Pulse Ox, 4 h</string>
+    <string id="so18_21" scope="settings">Solar (live), 1 h</string>
+    <string id="so18_22" scope="settings">Solar (live), 3 h</string>
+    <string id="so18_23" scope="settings">Solar (live), 4 h</string>
+    <string id="so18_24" scope="settings">Off</string>
+    <string id="so18_25" scope="settings">Big text</string>
+    <string id="st31" scope="settings">Chart layout: Big text shows</string>
+    <string id="so31_6" scope="settings">Steps</string>
+    <string id="so31_26" scope="settings">Steps to goal</string>
+    <string id="so31_21" scope="settings">Breaths/minute</string>
+    <string id="so31_33" scope="settings">BB change last 2h</string>
+    <string id="so31_47" scope="settings">Context</string>
+    <string id="so31_4" scope="settings">Temp high/low</string>
+    <string id="so31_10" scope="settings">Feels like temp</string>
+    <string id="so31_42" scope="settings">Feels + wind</string>
+    <string id="so31_11" scope="settings">Dew point temp</string>
+    <string id="so31_9" scope="settings">Humidity %</string>
+    <string id="so31_8" scope="settings">Rain chance %</string>
+    <string id="so31_31" scope="settings">Rain / dry change</string>
+    <string id="so31_36" scope="settings">Rain today mm/in</string>
+    <string id="so31_40" scope="settings">Snow 24h cm/in</string>
+    <string id="so31_7" scope="settings">Wind km/h or mph</string>
+    <string id="so31_45" scope="settings">Wind knots</string>
+    <string id="so31_46" scope="settings">Wind force (Bft)</string>
+    <string id="so31_22" scope="settings">Gusts km/h or mph</string>
+    <string id="so31_23" scope="settings">Cloud cover %</string>
+    <string id="so31_25" scope="settings">UV index</string>
+    <string id="so31_35" scope="settings">UV max today</string>
+    <string id="so31_32" scope="settings">Air quality EU</string>
+    <string id="so31_38" scope="settings">Pollen (Europe)</string>
+    <string id="so31_37" scope="settings">T-storm potential</string>
+    <string id="so31_39" scope="settings">Freezing lvl m/ft</string>
+    <string id="so31_41" scope="settings">Freezing margin</string>
+    <string id="so31_3" scope="settings">Pressure hPa+trend</string>
+    <string id="so31_44" scope="settings">Pressure inHg+trend</string>
+    <string id="so31_28" scope="settings">Pressure change 3h</string>
+    <string id="so31_0" scope="settings">Next sunrise/set</string>
+    <string id="so31_1" scope="settings">Sunrise &amp; sunset</string>
+    <string id="so31_12" scope="settings">Day length</string>
+    <string id="so31_13" scope="settings">Solar noon</string>
+    <string id="so31_14" scope="settings">Golden hour</string>
+    <string id="so31_34" scope="settings">Sun elevation</string>
+    <string id="so31_17" scope="settings">Moon lit %</string>
+    <string id="so31_18" scope="settings">Days to full moon</string>
+    <string id="so31_29" scope="settings">Days to new moon</string>
+    <string id="so31_30" scope="settings">Solstice/equinox</string>
+    <string id="so31_2" scope="settings">2nd time zone</string>
+    <string id="so31_43" scope="settings">Seconds</string>
+    <string id="so31_16" scope="settings">BMNT/EENT</string>
+    <string id="so31_15" scope="settings">First/last light</string>
+    <string id="so31_19" scope="settings">Lat/lon position</string>
+    <string id="so31_5" scope="settings">Altitude m/ft</string>
+    <string id="so31_20" scope="settings">Countdown</string>
+    <string id="so31_27" scope="settings">Watch sensor temp</string>
+    <string id="so31_24" scope="settings">Off</string>
+    <string id="st9" scope="settings">Weather: Weather source</string>
+    <string id="so9_0" scope="settings">Garmin</string>
+    <string id="so9_1" scope="settings">Open-Meteo</string>
+    <string id="st10" scope="settings">Weather: Update every</string>
+    <string id="so10_5" scope="settings">5 min</string>
+    <string id="so10_6" scope="settings">10 min</string>
+    <string id="so10_0" scope="settings">15 min</string>
+    <string id="so10_1" scope="settings">20 min</string>
+    <string id="so10_2" scope="settings">30 min</string>
+    <string id="so10_3" scope="settings">45 min</string>
+    <string id="so10_4" scope="settings">60 min</string>
+    <string id="st30" scope="settings">Goals: Intensity goal/day</string>
+    <string id="so30_0" scope="settings">Auto (week / 7)</string>
+    <string id="so30_1" scope="settings">15 min</string>
+    <string id="so30_2" scope="settings">20 min</string>
+    <string id="so30_3" scope="settings">30 min</string>
+    <string id="so30_4" scope="settings">45 min</string>
+    <string id="so30_5" scope="settings">60 min</string>
+    <string id="so30_6" scope="settings">90 min</string>
+</strings>

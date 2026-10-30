@@ -1,0 +1,13 @@
+<resources>
+    <fonts>
+        <font id="Small" filename="fonts/small.fnt" />
+        <font id="Big" filename="fonts/big.fnt" />
+        <font id="Icons" filename="fonts/icons.fnt" />
+        <font id="Mid" filename="fonts/mid.fnt" />
+        <font id="Med" filename="fonts/med.fnt" />
+        <font id="Data" filename="fonts/data.fnt" />
+        <font id="Tiny" filename="fonts/tiny.fnt" />
+        <font id="Time" filename="fonts/time.fnt" />
+        <font id="TimeOutline" filename="fonts/time_outline.fnt" />
+    </fonts>
+</resources>

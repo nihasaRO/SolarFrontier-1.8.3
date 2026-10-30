@@ -1,0 +1,17 @@
+# build output: compiled face, store package, debug symbols
+bin/
+*.prg
+*.iq
+*.prg.debug.xml
+*_debug*.xml
+# signing keys: never publish these (your developer key lives in %USERPROFILE%\.connectiq\)
+*.der
+*.pem
+*.key
+# Python and editor leftovers
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
